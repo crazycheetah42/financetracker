@@ -1,0 +1,3 @@
+Job, 500
+Another job, +100
+Coffee, -5
